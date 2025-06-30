@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ahmed Eleraky
-- 👀 I’m interested in Website development
+- 🎓 Administrative Information Systems graduate
+- 💻 Currently working on a medical platform connecting patients with doctors-
 - 💞️ I’m looking to collaborate on Website development
 - 📫 How to reach me (ahmedeleraky70@gmail.com)
 
